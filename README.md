@@ -1,6 +1,8 @@
+![I am a Full-Stack Web Developer](https://i.ibb.co/4YMKhwq/dfasfasdfsd.jpg)
+
 ### Hi there 👋, I am Ali Haydar
 #### I am a Full-Stack Web Developer
-![I am a Full-Stack Web Developer](https://i.ibb.co/4YMKhwq/dfasfasdfsd.jpg)
+
 
 I am a Full-Stack Web Developer. I try to develop the front end of a web application using React.js and the back-end using Node.js with comfortable. I am always ready to learn any new technology. I am excited to be joining your company to enhance your company name and reputation day by day.
 
