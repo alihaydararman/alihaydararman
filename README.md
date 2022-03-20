@@ -4,34 +4,32 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/syedhasibrahman/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/alihaydararman/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="syedhasibrahman" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/SyedHasibRahman/" target="blank"><img align="center"
+      alt="alihaydararman" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/alihaydararman/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="syedhasibrahman" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/syedhasibrahman/" target="blank"><img align="center"
+      alt="alihaydararman" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/alihaydararman/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="syedhasibrahman" height="30" width="40" /></a>
+      alt="alihaydararman" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/syedhasib" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="syedhasib" height="30" width="40" /></a>
- <a href="https://twitter.com/syedhasib01" target="blank"><img align="center"
+ <a href="https://twitter.com/alihaydararman" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="syedhasib01" height="30" width="40" /></a>
+      alt="alihaydararman" height="30" width="40" /></a>
 </p>
 <br>
 
  
 ## :sassy_man:  About me
 - 👨‍💻: I am a MERN Stack Deeloper from Bangladesh
-- 💻: I am a competitive programmer mainly at hackerrank
 - 👨‍💻: I love using Software as a solution for every Problem
 - 🏆: Black Belt Awards & Certificates from Programing Hero 
-- 😆: Team Leader of Team Anonymous at Programing Hero Endgame
-- 📘: I’m currently learning: Computer Science and Software Engineering.
-- 🏫: Bachelor’s Degree in Computer Science & Engineering, Northern University, - :Bangladesh:
-- 🤔: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
+- 😆: Team Member of Team Anonymous at Programing Hero Endgame
+- 📘: I’m currently learning: Computer Science Engineering.
+- 🤔: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1T0x_jl0i13En5sFPSgt5yYOmOBhXc4mE/view?usp=sharing).
 - 🤓: Always learning new things
 
 <br>
