@@ -77,7 +77,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
       
-<a href="https://github.com/iampawan/VelocityX">
+<a href="https://github.com/alihaydararman/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alihaydararman&repo=VelocityX&theme=light" />
 </a>
 <br>
