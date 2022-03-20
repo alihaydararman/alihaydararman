@@ -26,6 +26,7 @@
 ## :sassy_man:  About me
 - 👨‍💻: I am a MERN Stack Deeloper from Bangladesh
 - 👨‍💻: I love using Software as a solution for every Problem
+- 💻: I am a competitive programmer mainly at hackerrank
 - 🏆: Black Belt Awards & Certificates from Programing Hero 
 - 😆: Team Member of Team Anonymous at Programing Hero Endgame
 - 📘: I’m currently learning: Computer Science Engineering.
