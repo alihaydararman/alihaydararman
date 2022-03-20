@@ -14,9 +14,9 @@
   <a href="https://www.instagram.com/alihaydararman/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="alihaydararman" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/syedhasib" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/alihaydar6599" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="syedhasib" height="30" width="40" /></a>
+      alt="alihaydar6599" height="30" width="40" /></a>
  <a href="https://twitter.com/alihaydararman" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="alihaydararman" height="30" width="40" /></a>
