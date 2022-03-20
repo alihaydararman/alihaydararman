@@ -1,4 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ali Haydar 😊</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;Competitive+Programmer;MERN+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20ReactJs;Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -77,7 +76,5 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
       
-<a href="https://github.com/alihaydararman/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alihaydararman&repo=VelocityX&theme=light" />
-</a>
+
 <br>
